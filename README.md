@@ -1,69 +1,90 @@
-# 👋 Hi, I'm Nilesh Chavan  
-
-🚀 Passionate **Full-Stack Developer** | 💻 **Java | MERN | Spring Boot** | ☁️ Exploring **Cloud & AI**  
-
----
-
-## 🔥 Featured Projects  
-
-### 💊 [Online Pharmacy Portal](https://github.com/NileshChavan-academicprojects/Online_Pharma)  
-An **online drug ordering system** enabling users to securely order medicines with real-time inventory updates and admin/member management.  
-
-**🛠️ Key Modules:**  
-- 🔐 **Authentication:** Secure login, member registration with admin approval  
-- 💊 **Drug Management (Admin):** Add, edit, delete, search medicines  
-- 👤 **Member Management:** Admin can approve, update, or disable members; users can manage their profile  
-- 🛒 **Order System:** Add multiple medicines to cart, auto stock validation, price calculation, payment integration  
+<h1 align="center">Hi 👋, I'm Nilesh Chavan</h1>
+<h3 align="center">🚀 Full-Stack Developer | Java | MERN | Spring Boot | Cloud Enthusiast</h3>
 
 ---
 
-### 📊 [Result Analytics Dashboard](https://github.com/NileshChavan-academicprojects/Result-analytics-Dashboard)  
-🔗 Live Demo: [View Here](https://result-analytics-dashboard-delta.vercel.app/)  
-
-A **data-driven academic analytics platform** built to visualize and predict student performance.  
-
-**🌟 Highlights:**  
-- 📈 Interactive visualizations (semester, subject, department-wise analysis)  
-- 🎯 Predictive analytics for early risk detection & performance forecasting  
-- 👥 Role-based access (Admin, Faculty, Student) with RBAC  
-- 🛠️ Modern stack: **React, Node.js, MongoDB, Recharts, TensorFlow.js**  
-
-**🎯 Target Users:**  
-- 🏫 **Administrators:** Institution-wide monitoring  
-- 👨‍🏫 **Faculty:** Department-level analysis  
-- 👩‍🎓 **Students:** Personal performance tracking  
+## ⚡ About Me
+- 💻 I love building **real-world applications** with impactful features  
+- 🌱 Currently exploring **Cloud Deployments (AWS, Render, Railway)**  
+- 🛠️ Skilled in **Spring Boot, MERN, REST APIs, Databases**  
+- 🎯 Goal: Create **scalable, secure & AI-powered** applications  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-**Languages & Databases:**  
-- Java, JavaScript, SQL, MongoDB, MySQL  
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-**Frameworks & Tools:**  
-- Spring Boot, React.js, Node.js, Express.js  
-- Maven, Docker, Git, REST APIs  
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white) 
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-**Cloud & Deployment:**  
-- Render, Railway, Vercel, AWS (Free Tier)  
+---
+
+## 🚀 Featured Projects  
+
+### 💊 Online Pharmacy Portal  
+📌 [Repository Link](https://github.com/NileshChavan-academicprojects/Online_Pharma)  
+
+An **online drug ordering system** with secure user authentication, admin/member management, and real-time inventory updates.  
+
+🔹 Features:  
+✔️ Member registration & admin approval  
+✔️ CRUD operations on drugs (Admin)  
+✔️ Secure orders with stock validation  
+✔️ Automatic cart & payment gateway  
+
+---
+
+### 📊 Result Analytics Dashboard  
+📌 [Repository Link](https://github.com/NileshChavan-academicprojects/Result-analytics-Dashboard)  
+🌐 [Live Demo](https://result-analytics-dashboard-delta.vercel.app/)  
+
+A **full-stack data analytics platform** for educational institutions to visualize, analyze, and predict student performance.  
+
+🔹 Highlights:  
+✔️ Interactive visualizations (charts, filters, drill-downs)  
+✔️ Predictive analytics (AI-powered)  
+✔️ Role-based access (Admin, Faculty, Student)  
+✔️ Built with **React, Node.js, MongoDB, TensorFlow.js**  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NileshChavan-academicprojects&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NileshChavan-academicprojects&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NileshChavan-academicprojects&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NileshChavan-academicprojects&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshChavan-academicprojects&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
 
-- GitHub: [@NileshChavan-academicprojects](https://github.com/NileshChavan-academicprojects)  
-- LinkedIn: www.linkedin.com/in/nilesh-chavan-3a58682a1  
-- Email: nileshvchavan0@gmail.com 
+<p align="left">
+<a href="https://github.com/NileshChavan-academicprojects"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nilesh-chavan-3a58682a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nileshvchavan0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+📌 GitHub: **@NileshChavan-academicprojects**  
+📌 LinkedIn: **[Nilesh Chavan](https://www.linkedin.com/in/nilesh-chavan-3a58682a1)**  
+📌 Email: **nileshvchavan0@gmail.com**  
 
 ---
 
-✨ _“Turning ideas into scalable, real-world applications.”_
+✨ _“Code. Build. Innovate. Repeat.”_
