@@ -61,8 +61,8 @@ A **data-driven academic analytics platform** built to visualize and predict stu
 ## 🌐 Connect With Me  
 
 - GitHub: [@NileshChavan-academicprojects](https://github.com/NileshChavan-academicprojects)  
-- LinkedIn: *(Add your LinkedIn profile here)*  
-- Email: *(Add your email if you want public contact)*  
+- LinkedIn: www.linkedin.com/in/nilesh-chavan-3a58682a1  
+- Email: nileshvchavan0@gmail.com 
 
 ---
 
