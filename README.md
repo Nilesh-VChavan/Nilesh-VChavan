@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nilesh Chavan  
 
-<!--
-**NileshChavan-academicprojects/NileshChavan-academicprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Academic projects | 💻 Java | ⚡ MERN | 🚀 Spring Boot  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Passionate about **Full-Stack Development**  
+- Building **Online Pharma** and other academic projects  
+- Exploring **AI & Cloud Deployment**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks:** Spring Boot, React.js  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Docker, Maven  
+
+## 📂 Projects
+- [Online Pharma](https://github.com/NileshChavan-academicprojects/Online_Pharma)  
+
+
+## 📫 Connect with Me
+- GitHub: [NileshChavan-academicprojects](https://github.com/NileshChavan-academicprojects)  
+- LinkedIn: *(add your link here)*  
