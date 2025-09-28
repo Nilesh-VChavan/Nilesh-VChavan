@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects  
 
 ### 💊 Online Pharmacy Portal  
-📌 [Repository Link](https://github.com/NileshChavan-academicprojects/Online_Pharma)  
+📌 [Repository Link](https://github.com/Nilesh-VChavan/Online_Pharma)  
 
 An **online drug ordering system** with secure user authentication, admin/member management, and real-time inventory updates.  
 
@@ -47,7 +47,7 @@ An **online drug ordering system** with secure user authentication, admin/member
 ---
 
 ### 📊 Result Analytics Dashboard  
-📌 [Repository Link](https://github.com/NileshChavan-academicprojects/Result-analytics-Dashboard)  
+📌 [Repository Link](https://github.com/Nilesh-VChavan/Result-analytics-Dashboard)  
 🌐 [Live Demo](https://result-analytics-dashboard-delta.vercel.app/)  
 
 A **full-stack data analytics platform** for educational institutions to visualize, analyze, and predict student performance.  
@@ -64,11 +64,11 @@ A **full-stack data analytics platform** for educational institutions to visuali
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-VChavan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NileshVChavan&theme=tokyonight" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nilesh-VChavan&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshVChavan&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-VChavan&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -76,12 +76,12 @@ A **full-stack data analytics platform** for educational institutions to visuali
 ## 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://github.com/NileshVChavan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nilesh-VChavan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nilesh-chavan-3a58682a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nileshvchavan0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-📌 GitHub: **@NileshVChavan**  
+📌 GitHub: **[@Nilesh-VChavan](https://github.com/Nilesh-VChavan)**  
 📌 LinkedIn: **[Nilesh Chavan](https://www.linkedin.com/in/nilesh-chavan-3a58682a1)**  
 📌 Email: **nileshvchavan0@gmail.com**  
 
