@@ -63,12 +63,12 @@ A **full-stack data analytics platform** for educational institutions to visuali
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NileshChavan-academicprojects&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NileshChavan-academicprojects&theme=tokyonight" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-VChavan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NileshVChavan&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshChavan-academicprojects&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NileshVChavan&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -76,12 +76,12 @@ A **full-stack data analytics platform** for educational institutions to visuali
 ## 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://github.com/NileshChavan-academicprojects"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/NileshVChavan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nilesh-chavan-3a58682a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nileshvchavan0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-📌 GitHub: **@NileshChavan-academicprojects**  
+📌 GitHub: **@NileshVChavan**  
 📌 LinkedIn: **[Nilesh Chavan](https://www.linkedin.com/in/nilesh-chavan-3a58682a1)**  
 📌 Email: **nileshvchavan0@gmail.com**  
 
