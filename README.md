@@ -63,12 +63,12 @@ A **full-stack data analytics platform** for educational institutions to visuali
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-VChavan&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-VChavan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-VChavan&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-VChavan&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-VChavan&theme=github&hide_border=false&area=true&count_private=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
