@@ -5,7 +5,7 @@
 
 ## ⚡ About Me
 - 💻 I love building **real-world applications** with impactful features  
-- 🌱 Currently exploring **Cloud Deployments (AWS, Render, Railway)**  
+- 🌱 Currently exploring **Cloud Deployments (Azure, AWS, Render, Railway)**  
 - 🛠️ Skilled in **Spring Boot, MERN, REST APIs, Databases**  
 - 🎯 Goal: Create **scalable, secure & AI-powered** applications  
 
@@ -28,35 +28,6 @@
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white) 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
----
-
-## 🚀 Featured Projects  
-
-### 💊 Online Pharmacy Portal  
-📌 [Repository Link](https://github.com/Nilesh-VChavan/Online_Pharma)  
-
-An **online drug ordering system** with secure user authentication, admin/member management, and real-time inventory updates.  
-
-🔹 Features:  
-- Member registration & admin approval  
-- CRUD operations on drugs (Admin)  
-- Secure orders with stock validation  
-- Automatic cart & payment gateway  
-
----
-
-### 📊 Result Analytics Dashboard  
-📌 [Repository Link](https://github.com/Nilesh-VChavan/Result-analytics-Dashboard)  
-🌐 [Live Demo](https://result-analytics-dashboard-delta.vercel.app/)  
-
-A **full-stack data analytics platform** for educational institutions to visualize, analyze, and predict student performance.  
-
-🔹 Highlights:  
-- Interactive visualizations (charts, filters, drill-downs)  
-- Predictive analytics (AI-powered)  
-- Role-based access (Admin, Faculty, Student)  
-- Built with **React, Node.js, MongoDB, TensorFlow.js**  
 
 ---
 
