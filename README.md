@@ -42,10 +42,7 @@ I enjoy solving real-world problems through clean architecture, efficient APIs, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh-VChavan&theme=github_dark" width="96.5%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh-VChavan&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh-VChavan&theme=github_dark" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh-VChavan&theme=github_dark&utcOffset=5.5" width="48%" />
