@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Chavan</h1>
-<h3 align="center">Full-Stack Developer | Java | MERN | Spring Boot | Cloud Computing</h3>
+<h3 align="center">Full-Stack Developer | Java | MERN | Spring Boot | Cloud </h3>
 
 ---
 
