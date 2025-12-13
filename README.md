@@ -39,7 +39,7 @@ I enjoy solving real-world problems through clean architecture, efficient APIs, 
 ## 📈 Developer Activity & Engineering Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh-VChavan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh-VChavan&theme=github_dark" width="96.5%"/>
 </p>
 
 <p align="center">
